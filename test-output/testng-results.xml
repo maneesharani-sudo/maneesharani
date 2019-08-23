@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[HRMS title Matched]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Welcome txt Matched]]>
+    </line>
+    <line>
+      <![CDATA[Moved to PIM]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on addemp]]>
+    </line>
+    <line>
+      <![CDATA[Emp details Added]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19387" started-at="2019-08-23T05:25:52Z" finished-at="2019-08-23T05:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19387" started-at="2019-08-23T05:25:52Z" finished-at="2019-08-23T05:26:12Z">
+      <class name="com.hrm.Testscripts.Tcnew_02">
+        <test-method status="PASS" signature="Tcnew_02()[pri:0, instance:com.hrm.Testscripts.Tcnew_02@51efea79]" name="Tcnew_02" duration-ms="19375" started-at="2019-08-23T10:55:52Z" finished-at="2019-08-23T10:56:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[HRMS title Matched]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Welcome txt Matched]]>
+            </line>
+            <line>
+              <![CDATA[Moved to PIM]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on addemp]]>
+            </line>
+            <line>
+              <![CDATA[Emp details Added]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Tcnew_02 -->
+      </class> <!-- com.hrm.Testscripts.Tcnew_02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
