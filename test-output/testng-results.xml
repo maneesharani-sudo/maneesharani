@@ -14,27 +14,18 @@
       <![CDATA[Welcome txt Matched]]>
     </line>
     <line>
-      <![CDATA[Moved to PIM]]>
-    </line>
-    <line>
-      <![CDATA[Clicked on addemp]]>
-    </line>
-    <line>
-      <![CDATA[Emp details Added]]>
-    </line>
-    <line>
       <![CDATA[Logout Completed]]>
     </line>
     <line>
       <![CDATA[Application closed]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19387" started-at="2019-08-23T05:25:52Z" finished-at="2019-08-23T05:26:12Z">
+  <suite name="Default suite" duration-ms="5358" started-at="2019-08-23T06:23:36Z" finished-at="2019-08-23T06:23:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19387" started-at="2019-08-23T05:25:52Z" finished-at="2019-08-23T05:26:12Z">
-      <class name="com.hrm.Testscripts.Tcnew_02">
-        <test-method status="PASS" signature="Tcnew_02()[pri:0, instance:com.hrm.Testscripts.Tcnew_02@51efea79]" name="Tcnew_02" duration-ms="19375" started-at="2019-08-23T10:55:52Z" finished-at="2019-08-23T10:56:12Z">
+    <test name="Default test" duration-ms="5358" started-at="2019-08-23T06:23:36Z" finished-at="2019-08-23T06:23:42Z">
+      <class name="com.hrm.Testscripts.TCnew_01">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.hrm.Testscripts.TCnew_01@51efea79]" name="Test1" duration-ms="5344" started-at="2019-08-23T11:53:36Z" finished-at="2019-08-23T11:53:42Z">
           <reporter-output>
             <line>
               <![CDATA[Application opened]]>
@@ -49,23 +40,14 @@
               <![CDATA[Welcome txt Matched]]>
             </line>
             <line>
-              <![CDATA[Moved to PIM]]>
-            </line>
-            <line>
-              <![CDATA[Clicked on addemp]]>
-            </line>
-            <line>
-              <![CDATA[Emp details Added]]>
-            </line>
-            <line>
               <![CDATA[Logout Completed]]>
             </line>
             <line>
               <![CDATA[Application closed]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Tcnew_02 -->
-      </class> <!-- com.hrm.Testscripts.Tcnew_02 -->
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.hrm.Testscripts.TCnew_01 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
